@@ -1,8 +1,6 @@
 # Tweepy
 A Personality Development App
 
-## Devpost Link
-
 ## Inspiration for our App
 
 Mental illness is a global problem. More than 300 million people, 4.4% of the world’s population, suffer from depression.
