@@ -14,7 +14,12 @@ Tweety is a personality development application aimed at bringing users sentimen
 
 ## User Interface
 
-Insert GIF
+![Alt text](media\chatscreen.png?raw=true? "Title")
+![Alt text](media\chat11.png?raw=true "Title")
+![Alt text](media\tw.png?raw=true "Title")
+![Alt text](media\chat1.png?raw=true "Title")
+![Alt text](media\chat.png?raw=true "Title")
+![Alt text](media\chat3.png?raw=true "Title")
 
 ## Workflow
 
