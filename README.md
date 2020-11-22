@@ -15,10 +15,10 @@ Tweety is a personality development application aimed at bringing users sentimen
 ## User Interface
 
 ![Alt text](media/ChatScreen.png)
-![Alt text](media/chat11.png)
+![Alt text](media/Chat11.png)
 ![Alt text](media/tw.png)
-![Alt text](media/chat1.png)
-![Alt text](media/chat3.png)
+![Alt text](media/Chat1.png)
+![Alt text](media/Chat3.png)
 
 ## Workflow
 
